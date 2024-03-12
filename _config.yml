@@ -10,7 +10,7 @@ linkedin_username: "devin-mesecar"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "jekyll-theme-chirpy"
 
 rss: rss
 
